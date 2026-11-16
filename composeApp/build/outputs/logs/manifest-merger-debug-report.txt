@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.activity:activity:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/b2201cb39155f55d16e037af34f48736/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6f17abecd89acb81f7a8e7904611881a/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/5de10e65d328047ecde3bea8c25624c3/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/18afc41b533ea50b95c523bcdfd4c50b/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/84a2b04f5c63a0facb5598d3c5e1c863/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/1c1d222a3bed50451e7749be5b4a0072/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c3c342d55c9d450c27f62bb794d4339/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/bierodgar/.gradle/caches/9.3.0/transforms/5a0b8bbb121a3c5567abcf35e5d4ce10/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/26fb6f00a9695a68a1f74f7fad9e9e67/transformed/ui-backhandler-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6687a840e76d7670b2245c7586b8fe81/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/0d0f0a685f69b87a63276372892a11d7/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ff7fcd832305a381c293c5990fc02355/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/f705f92abe2e53fdae2cb01ad956d74c/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ec7c6f48848901c4246dfad281986463/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/febe4f37243828dcb6657d410b8db734/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/c68e6e4949a9c5068938892f1c65667a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/22f0c5a7c1d008a9b2ce592abedf80f0/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/05f66b8afa354074f10f84270b2395ec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9ccf25812616706da282300e438acd69/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/735cf00ab697f2d520669739d5cdd97a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/53cbbbb8512e72cc71779ad2eb7bd0b7/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/2662a003c2db3c3d1866bebbc914b0ec/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/7c2e0cb522ea2a6a32e5f119a9145571/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a2369875bae17c520ffd7ad6441c70d2/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/99588c5a707a68466177aa3d3ef81075/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c74d7ae41b2e6f11e44667feb0371db/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/cae775ac185f2246791cb4e9d5509729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a7c44dcfa978ffac0ad2bd6ca9c7dbfa/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/ece4dcc8c065cd715164ebc2d041d430/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/48d69da6fbd282ab1f989342f141b222/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/b3fab630243758774c02310459efb910/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/e4f68da2cc5952128fc8f083d1339177/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7b776c57309e94e83d85a91cd461fb8b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/1fae2e757e900d0643a478ed0d6caa88/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/60971a121a307daf2d17162db2475460/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9a862868118484335224149fdc383b80/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/280b9f4bb6531903d72513cea526a2a3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/377abb8e421e808f75d13bd86d258802/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:3:5-18:19
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:3:5-18:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/280b9f4bb6531903d72513cea526a2a3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/280b9f4bb6531903d72513cea526a2a3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:5:9-58
+	android:allowBackup
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:8:9-72
+activity#com.agendachat.MainActivity
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:9:9-17:20
+	android:exported
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:11:13-36
+	android:configChanges
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:12:13-113
+	android:name
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/b2201cb39155f55d16e037af34f48736/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/b2201cb39155f55d16e037af34f48736/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6f17abecd89acb81f7a8e7904611881a/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6f17abecd89acb81f7a8e7904611881a/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/5de10e65d328047ecde3bea8c25624c3/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/5de10e65d328047ecde3bea8c25624c3/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/18afc41b533ea50b95c523bcdfd4c50b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/18afc41b533ea50b95c523bcdfd4c50b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/84a2b04f5c63a0facb5598d3c5e1c863/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/84a2b04f5c63a0facb5598d3c5e1c863/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/1c1d222a3bed50451e7749be5b4a0072/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/1c1d222a3bed50451e7749be5b4a0072/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c3c342d55c9d450c27f62bb794d4339/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c3c342d55c9d450c27f62bb794d4339/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/bierodgar/.gradle/caches/9.3.0/transforms/5a0b8bbb121a3c5567abcf35e5d4ce10/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /home/bierodgar/.gradle/caches/9.3.0/transforms/5a0b8bbb121a3c5567abcf35e5d4ce10/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/26fb6f00a9695a68a1f74f7fad9e9e67/transformed/ui-backhandler-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.ui:ui-backhandler-android-debug:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/26fb6f00a9695a68a1f74f7fad9e9e67/transformed/ui-backhandler-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6687a840e76d7670b2245c7586b8fe81/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/6687a840e76d7670b2245c7586b8fe81/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/0d0f0a685f69b87a63276372892a11d7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/0d0f0a685f69b87a63276372892a11d7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ff7fcd832305a381c293c5990fc02355/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ff7fcd832305a381c293c5990fc02355/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/f705f92abe2e53fdae2cb01ad956d74c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/f705f92abe2e53fdae2cb01ad956d74c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ec7c6f48848901c4246dfad281986463/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/ec7c6f48848901c4246dfad281986463/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/febe4f37243828dcb6657d410b8db734/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/febe4f37243828dcb6657d410b8db734/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/c68e6e4949a9c5068938892f1c65667a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/c68e6e4949a9c5068938892f1c65667a/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/22f0c5a7c1d008a9b2ce592abedf80f0/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/22f0c5a7c1d008a9b2ce592abedf80f0/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/05f66b8afa354074f10f84270b2395ec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/05f66b8afa354074f10f84270b2395ec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9ccf25812616706da282300e438acd69/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9ccf25812616706da282300e438acd69/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/735cf00ab697f2d520669739d5cdd97a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/735cf00ab697f2d520669739d5cdd97a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/53cbbbb8512e72cc71779ad2eb7bd0b7/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/53cbbbb8512e72cc71779ad2eb7bd0b7/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/2662a003c2db3c3d1866bebbc914b0ec/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/2662a003c2db3c3d1866bebbc914b0ec/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/7c2e0cb522ea2a6a32e5f119a9145571/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/7c2e0cb522ea2a6a32e5f119a9145571/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a2369875bae17c520ffd7ad6441c70d2/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a2369875bae17c520ffd7ad6441c70d2/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/99588c5a707a68466177aa3d3ef81075/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/99588c5a707a68466177aa3d3ef81075/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c74d7ae41b2e6f11e44667feb0371db/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/8c74d7ae41b2e6f11e44667feb0371db/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/cae775ac185f2246791cb4e9d5509729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/cae775ac185f2246791cb4e9d5509729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a7c44dcfa978ffac0ad2bd6ca9c7dbfa/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/a7c44dcfa978ffac0ad2bd6ca9c7dbfa/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/ece4dcc8c065cd715164ebc2d041d430/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/ece4dcc8c065cd715164ebc2d041d430/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/48d69da6fbd282ab1f989342f141b222/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/48d69da6fbd282ab1f989342f141b222/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/b3fab630243758774c02310459efb910/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/b3fab630243758774c02310459efb910/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/e4f68da2cc5952128fc8f083d1339177/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.2] /home/bierodgar/.gradle/caches/9.3.0/transforms/e4f68da2cc5952128fc8f083d1339177/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7b776c57309e94e83d85a91cd461fb8b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7b776c57309e94e83d85a91cd461fb8b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/1fae2e757e900d0643a478ed0d6caa88/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/1fae2e757e900d0643a478ed0d6caa88/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/60971a121a307daf2d17162db2475460/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/60971a121a307daf2d17162db2475460/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9a862868118484335224149fdc383b80/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/9a862868118484335224149fdc383b80/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/280b9f4bb6531903d72513cea526a2a3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/280b9f4bb6531903d72513cea526a2a3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/377abb8e421e808f75d13bd86d258802/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/377abb8e421e808f75d13bd86d258802/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bierodgar/Baixades/AgendaChat/composeApp/src/androidMain/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/e024c98753ad3e3bb76ec598534b232d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/db168c1a15dcdaacd125ebbc2f737632/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.agendachat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.agendachat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/bierodgar/.gradle/caches/9.3.0/transforms/968d8692c475efef261c616bde63c113/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/bierodgar/.gradle/caches/9.3.0/transforms/23a74f908c46f79743e7c4f379c642b5/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/bierodgar/.gradle/caches/9.3.0/transforms/7a5ddc0a3f9067df234d228083945783/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

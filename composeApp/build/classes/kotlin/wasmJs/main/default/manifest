@@ -1,0 +1,11 @@
+abi_version=1.201.0
+builtins_platform=WASM
+compiler_version=2.1.21
+depends=org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.animation\:animation org.jetbrains.compose.material\:material-icons-core org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.compose.runtime\:runtime-saveable org.jetbrains.compose.runtime\:runtime org.jetbrains.androidx.lifecycle\:lifecycle-common org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.kotlinx\:atomicfu org.jetbrains.compose.annotation-internal\:annotation kotlin org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util
+ir_signature_versions=1,2
+jsOutputName=composeApp
+metadata_version=1.4.1
+serializedIrFileFingerprints=2allzh2dwn014.nswxcr3xg4sm 3483ilgffpbnz.jg0l8cn7ajhv 21fbr01pizzqg.3ftllg1kugyhq 2zhdqfc05syto.1yce3fjeuohmg 3vpppjq1pkd3w.107wk52jxxsxr 1r8dqaeybg9wz.2hoo1vj7sohyn 125pooaqlw5f9.2are74ezf8kcm 2f2ue5wq1tss5.1e05jjkkk4tn8 1rpobvh55yyyw.3hmoosxkwcbha 2te8utiofikja.2jm88uwhphv3y 3kcp655k54n1c.1wg1o6j2g0isf
+serializedKlibFingerprint=36yoh7invfskj.1lqm9vqt9x5sa
+unique_name=AgendaChat\:composeApp
+wasm_targets=wasm-js

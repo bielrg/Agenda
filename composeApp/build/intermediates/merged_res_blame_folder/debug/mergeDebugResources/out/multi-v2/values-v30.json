@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.agendachat.composeApp-mergeDebugResources-41:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/bierodgar/.gradle/caches/9.3.0/transforms/6f17abecd89acb81f7a8e7904611881a/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
